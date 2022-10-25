@@ -11,7 +11,7 @@ Consiste em uma aplicação web que simula o formulário de preenchimento de car
 👨🏻‍💻 **Acessar:** [Clique Aqui](https://nlw-explorer-cards.vercel.app)
 
 <p align="center">
-  <img src="" alt="RocketPay - Demo"/>
+  <img src="https://github.com/guilherme-ac-fernandes/nlw-explorer-cards/blob/main/rocketpay.png" alt="RocketPay - Demo"/>
 </p>
 
 
